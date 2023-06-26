@@ -28,8 +28,8 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.FirebaseFirestore;
-import com.select.musicboxxx.MainActivity;
-import com.select.musicboxxx.R;
+import com.example.musicbox1.MainActivity;
+import com.example.musicbox1.R;
 
 import java.util.HashMap;
 import java.util.Map;

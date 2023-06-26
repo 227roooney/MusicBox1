@@ -24,8 +24,8 @@ import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
-import com.select.musicboxxx.MainActivity;
-import com.select.musicboxxx.R;
+import com.example.musicbox1.MainActivity;
+import com.example.musicbox1.R;
 
 public class SignInFragment extends Fragment {
 

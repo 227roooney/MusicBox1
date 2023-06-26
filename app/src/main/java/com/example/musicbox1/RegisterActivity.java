@@ -7,7 +7,7 @@ import androidx.fragment.app.FragmentTransaction;
 import android.os.Bundle;
 import android.widget.FrameLayout;
 
-import com.select.musicboxxx.Fragments.SignInFragment;
+import com.example.musicbox1.Fragments.SignInFragment;
 
 public class RegisterActivity extends AppCompatActivity {
 
